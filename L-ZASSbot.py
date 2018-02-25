@@ -22,4 +22,4 @@ async def channel_cleanup():
     await asyncio.sleep(300)
 
 client.loop.create_task(channel_cleanup())
-client.run('NDE3MjE5MjExMTcwMDIxMzk2.DXR-3A.9Qla_yjvuJEqjpVBPCdpWIgc-ec')
+client.run('')
